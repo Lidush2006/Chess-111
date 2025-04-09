@@ -1,0 +1,10 @@
+
+для работы моей программы мне нужны следующие библиотеки а именно: 
+
+pygame as p
+ChessEngine, ChessAI
+sys
+from multiprocessing import Process, Queue
+
+
+random
